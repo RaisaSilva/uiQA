@@ -2,5 +2,47 @@ basicSelenium/BasicTest.java
  basicSelenium.BasicTest
 basicSelenium/BasicTodoLyTest.java
  basicSelenium.BasicTodoLyTest
+controls/Label.java
+ controls.Label
+pomPages/todoLy/LoginModal.java
+ pomPages.todoLy.LoginModal
+testClean/CreateProjectTest.java
+ testClean.CreateProjectTest
+factoryBrowser/IBrowser.java
+ factoryBrowser.IBrowser
+controls/Image.java
+ controls.Image
+singletonSess/Session.java
+ singletonSess.Session
+testClean/LoginTest.java
+ testClean.LoginTest
+pomPages/todoLy/Left.java
+ pomPages.todoLy.Left
+factoryBrowser/Edge.java
+ factoryBrowser.Edge
+controls/Button.java
+ controls.Button
 basicSelenium/TareaEliminar.java
  basicSelenium.TareaEliminar
+pomPages/todoLy/Center.java
+ pomPages.todoLy.Center
+controls/Control.java
+ controls.Control
+testClean/UpdateProjectTest.java
+ testClean.UpdateProjectTest
+controls/TextBox.java
+ controls.TextBox
+pomPages/todoLy/MainPage.java
+ pomPages.todoLy.MainPage
+pomPages/todoLy/Menu.java
+ pomPages.todoLy.Menu
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
+testClean/DeleteProjectTest.java
+ testClean.DeleteProjectTest
+controls/CheckBox.java
+ controls.CheckBox
+factoryBrowser/Chrome.java
+ factoryBrowser.Chrome
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
