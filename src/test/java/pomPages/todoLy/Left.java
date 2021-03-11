@@ -8,9 +8,11 @@ import org.openqa.selenium.By;
 public class Left {
 
     Center centerSection = new Center();
+
+
     public Button addNewProjectButton= new Button(By.xpath("//td[contains(.,'Add New Project') and @class='ProjItemContent']"));
     public Button addButton= new Button(By.xpath("//input[@id='NewProjNameButton']"));
-    public TextBox nameProjectTextBox= new TextBox(By.xpath("//input[@id='NewProjNameInput']"));
+    public TextBox nameProjectTextBox= new TextBox(By.xpath("NewProjNameInput"));
 
     //Update
     public Button selectProjectButton = new Button(By.xpath("//li[last()]//td[contains(.,'ProjectRS') and @class='ProjItemContent']"));

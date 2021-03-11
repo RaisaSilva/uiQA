@@ -53,14 +53,6 @@ public class CRUDItemTest {
         Assert.assertTrue("No se eliminó el item", centerSection.infoMessageDeleteLabel.controlIsDisplayed());
 
 
-
-
-
-
-        Thread.sleep(2000);
-        Assert.assertEquals("ERROR !!! item No Creado", name, centerSection.projectNameLabel.getText());
-
-
     }
 
     @After

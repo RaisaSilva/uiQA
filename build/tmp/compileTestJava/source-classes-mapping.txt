@@ -26,27 +26,37 @@ pomPages/todoLy/LoginModal.java
  pomPages.todoLy.LoginModal
 controls/CheckBox.java
  controls.CheckBox
-testClean/LoginTest.java
- testClean.LoginTest
+testClean/DeleteProjectTest.java
+ testClean.DeleteProjectTest
 pomPages/todoLy/MainPage.java
  pomPages.todoLy.MainPage
 factoryBrowser/BrowserStack.java
  factoryBrowser.BrowserStack
-controls/Control.java
- controls.Control
+pomPages/todoist/LeftE.java
+ pomPages.todoist.LeftE
 factoryBrowser/FactoryBrowser.java
  factoryBrowser.FactoryBrowser
-singletonSess/Session.java
- singletonSess.Session
+pomPages/todoist/CenterE.java
+ pomPages.todoist.CenterE
 pomPages/todoLy/Center.java
  pomPages.todoLy.Center
+testClean/LoginTest.java
+ testClean.LoginTest
+controls/Control.java
+ controls.Control
+pomPages/todoLy/Left.java
+ pomPages.todoLy.Left
+testCleanItem/CRUDItemTest.java
+ testCleanItem.CRUDItemTest
+singletonSess/Session.java
+ singletonSess.Session
 testClean/UpdateProjectTest.java
  testClean.UpdateProjectTest
 testClean/CreateProjectTest.java
  testClean.CreateProjectTest
-testCleanItem/CRUDItemTest.java
- testCleanItem.CRUDItemTest
-testClean/DeleteProjectTest.java
- testClean.DeleteProjectTest
-pomPages/todoLy/Left.java
- pomPages.todoLy.Left
+pomPages/todoist/LoginModalEjer.java
+ pomPages.todoist.LoginModalEjer
+pomPages/todoist/RigthE.java
+ pomPages.todoist.RigthE
+testCleanProjectEjer/CreateCountTest.java
+ testCleanProjectEjer.CreateCountTest
